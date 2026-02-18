@@ -1,0 +1,14 @@
+# File di identità per IMM01
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[[CURRENCIES]]
+code="IMM01"
+issuer="GCXIM3K6VE7NKNW5TKN5XXWZK3RZ5DGCR2QZI457GOUT5MIUBD6TKGO5"
+display_decimals=2
+name="Immobile Rendita 01"
+desc="Token rappresentativo di una quota dell'immobile da 250.000€. Gestito via Soroban."
+conditions="Il possesso garantisce dividendi mensili."
+
+[DOCUMENTATION]
+ORG_NAME="Investimenti immobiliari"
+ORG_URL="https://happymealtech.github.io/imm01/"
